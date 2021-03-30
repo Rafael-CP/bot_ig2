@@ -19,3 +19,15 @@ C:\Users\Rafael\Desktop\bot3\bot3\bot3\obj\Debug\net5.0\ref\bot3.dll
 C:\Users\Rafael\Desktop\bot3\bot3\bot3\obj\Debug\net5.0\bot3.pdb
 C:\Users\Rafael\Desktop\bot3\bot3\bot3\obj\Debug\net5.0\bot3.genruntimeconfig.cache
 C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\bot3.dll.config
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
