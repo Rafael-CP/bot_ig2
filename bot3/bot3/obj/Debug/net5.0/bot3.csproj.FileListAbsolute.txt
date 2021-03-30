@@ -18,3 +18,4 @@ C:\Users\Rafael\Desktop\bot3\bot3\bot3\obj\Debug\net5.0\bot3.dll
 C:\Users\Rafael\Desktop\bot3\bot3\bot3\obj\Debug\net5.0\ref\bot3.dll
 C:\Users\Rafael\Desktop\bot3\bot3\bot3\obj\Debug\net5.0\bot3.pdb
 C:\Users\Rafael\Desktop\bot3\bot3\bot3\obj\Debug\net5.0\bot3.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\bot3\bot3\bot3\bin\Debug\net5.0\nunit.framework.dll
