@@ -29,8 +29,21 @@ namespace bot3
                 Thread.Sleep(TimeSpan.FromSeconds(5));
                 driver.Navigate().GoToUrl(@"https://www.instagram.com/portalg1/");
                 driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
-                driver.FindElement(By.XPath("//*[@id='react-root']/section/main/div/header/section/div[1]/div[2]/div/div/div/span/span[1]/button")).Click();
+
+                //driver.FindElement(By.XPath("//*[@id='react-root']/section/main/div/header/section/div[1]/div[2]/div/div/div/span/span[1]/button")).Click();
                 //driver.FindElement(By.XPath("//button[contains(text(),'Seguir')]")).Click(); // outra alternativa de XPath
+
+                IWebElement button = null;
+                try
+                {
+                    button = driver.FindElement(By.XPath("//button[contains(text(),'Seguir')]"));
+                    button.Click();
+                }
+                catch(NoSuchElementException ex)
+                {
+                    Console.WriteLine("Ja esta seguindo o perfil");
+                }
+
             }
             catch (Exception ex) //imprime o erro
             {
